@@ -3,45 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Portfolio Website – README</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      line-height: 1.7;
-      background-color: #f5f5f5;
-      padding: 40px;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    pre {
-      background-color: #f0f0f0;
-      padding: 15px;
-      overflow-x: auto;
-      border-left: 5px solid #3498db;
-    }
-    code {
-      background: #e0e0e0;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    hr {
-      margin: 30px 0;
-      border: 0;
-      border-top: 2px solid #ccc;
-    }
-  </style>
+  
 </head>
 <body>
 

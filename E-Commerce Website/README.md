@@ -3,53 +3,11 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>E-Commerce Frontend – README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.7;
-      padding: 40px;
-      background-color: #f9f9f9;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #2c3e50;
-    }
-    pre {
-      background-color: #f4f4f4;
-      padding: 15px;
-      overflow-x: auto;
-    }
-    code {
-      background-color: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    a {
-      color: #3498db;
-    }
-    ul {
-      margin-left: 20px;
-    }
-    hr {
-      margin: 30px 0;
-    }
-  </style>
 </head>
 <body>
 
   <h1>🛒 E-Commerce Frontend</h1>
   <p>Welcome to the frontend repository of the <strong>E-Commerce Website</strong> – a modern, fully responsive, and dynamic online shopping platform. This frontend interfaces with a backend API to deliver a seamless user experience including product browsing, user authentication, cart management, order processing, and more.</p>
-
-  <hr/>
-
-  <h2>📸 Demo</h2>
-  <p><strong>Live Demo:</strong> <a href="https://your-live-site-url.com">https://your-live-site-url.com</a></p>
-  <img src="./screenshots/homepage.png" alt="Homepage Screenshot" width="600"/>
-  <img src="./screenshots/login.png" alt="Login Page Screenshot" width="600"/>
-  <img src="./screenshots/product.png" alt="Product Page Screenshot" width="600"/>
-
-  <hr/>
 
   <h2>⚙️ Tech Stack</h2>
   <ul>

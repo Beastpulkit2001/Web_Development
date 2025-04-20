@@ -10,13 +10,6 @@
   <h1>🌐 Personal Portfolio Website</h1>
   <p>This is the <strong>frontend codebase</strong> for my personal developer portfolio website. It showcases my work, skills, experience, projects, and contact information in a clean and responsive layout.</p>
 
-  <hr/>
-
-  <h2>🚀 Live Preview</h2>
-  <p><a href="https://your-portfolio-url.com" target="_blank">🔗 Visit Live Portfolio</a></p>
-
-  <hr/>
-
   <h2>📦 Tech Stack</h2>
   <ul>
     <li><strong>HTML5</strong></li>
@@ -136,8 +129,7 @@ const publicKey = "your_public_key";</code></pre>
   <hr/>
 
   <h2>👨‍💻 Developed by</h2>
-  <p><strong>Pulkit Sharma</strong><br/>
-  <a href="https://your-portfolio-url.com">🌐 Portfolio</a> |
+  <p><strong>Pulkit Sharma</strong><br/>  
   <a href="https://www.linkedin.com/in/pulkit-sharma-fmva%C2%AE-33785625a/">🔗 LinkedIn</a> |
   <a href="https://github.com/Beastpulkit2001">💻 GitHub</a></p>
 

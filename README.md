@@ -129,7 +129,7 @@ npm start</code></pre>
   <p><strong>Pulkit Sharma</strong><br/>
   <a href="https://your-portfolio-url.com">🌐 Portfolio</a> |
   <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a> |
-  <a href="https://github.com/yourusername">💻 GitHub</a></p>
+  <a href="https://github.com/Beastpulkit2001">💻 GitHub</a></p>
 
   <hr/>
 

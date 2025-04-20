@@ -28,9 +28,6 @@
 
   <h2>🔹 E-Commerce Website</h2>
 
-  <h3>🚀 Live Demo</h3>
-  <p><a href="https://your-ecommerce-demo.com">🔗 E-Commerce Demo</a></p>
-
   <h3>💡 Features</h3>
   <ul>
     <li>Product listing, filtering, and searching</li>
@@ -75,9 +72,6 @@ export const getProducts = async () => {
   <hr/>
 
   <h2>🔹 Portfolio Website</h2>
-
-  <h3>🚀 Live Demo</h3>
-  <p><a href="https://your-portfolio-url.com">🔗 Portfolio Demo</a></p>
 
   <h3>💡 Features</h3>
   <ul>

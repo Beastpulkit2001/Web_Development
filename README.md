@@ -127,8 +127,7 @@ npm start</code></pre>
 
   <h2>🧑‍💻 Developed by</h2>
   <p><strong>Pulkit Sharma</strong><br/>
-  <a href="https://your-portfolio-url.com">🌐 Portfolio</a> |
-  <a href="https://linkedin.com/in/yourprofile">🔗 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/pulkit-sharma-fmva%C2%AE-33785625a/">🔗 LinkedIn</a> |
   <a href="https://github.com/Beastpulkit2001">💻 GitHub</a></p>
 
   <hr/>
